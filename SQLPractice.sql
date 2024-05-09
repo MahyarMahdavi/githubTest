@@ -1,1 +1,2 @@
-print("mahyar")
+print("mahyar");
+print("parsa");
